@@ -1,2 +1,2 @@
-![](https://github.com/thecharlsen/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/thecharlsen/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/thecharlsen/the-charlsen-gen/blob/master/generated/overview.svg)
+![](https://github.com/thecharlsen/the-charlsen-gen/blob/master/generated/languages.svg)
