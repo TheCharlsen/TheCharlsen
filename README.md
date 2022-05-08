@@ -1,2 +1,2 @@
 ![Metrics](/github-metrics.svg)
-![Metrics](/metrics-plugin.languages.svg)
+![languages](/metrics-plugin.languages.svg)
